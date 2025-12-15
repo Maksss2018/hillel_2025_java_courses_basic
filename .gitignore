@@ -1,3 +1,7 @@
+.idea/
+
+*.iml
+
 # Compiled class file
 *.class
 
@@ -53,3 +57,7 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+
+out/
+
+target/
